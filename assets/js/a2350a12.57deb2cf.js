@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdinosaurs_documentation=self.webpackChunkdinosaurs_documentation||[]).push([[838],{5634:o=>{o.exports=JSON.parse('{"metadata":{"permalink":"/dinosaurs-documentation/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdinosaurs_documentation=self.webpackChunkdinosaurs_documentation||[]).push([[1903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/dinosaurs-documentation/blog","blogTitle":"Blog","authorsListPath":"/dinosaurs-documentation/blog/authors"}')}}]);
